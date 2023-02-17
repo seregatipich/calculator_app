@@ -3,7 +3,11 @@
 ### Tech
 Python 3.10
 ### Project launch
-- Install and activate venv
+- Clone the repository
+```
+git clone git@github.com:seregatipich/calculator_app.git
+```
+- Install and activate virtual environment
 ```
 python3 -m venv venv
 ``` 
@@ -11,9 +15,9 @@ python3 -m venv venv
 ```
 pip3 install -r requirements.txt
 ``` 
-- From directory containing manage.py execute:
+- From the directory containing manage.py execute:
 ```
-python main.py
+python3 main.py
 ```
 ### Author
 seregatipich
