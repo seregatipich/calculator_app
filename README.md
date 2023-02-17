@@ -15,7 +15,7 @@ python3 -m venv venv
 ```
 pip3 install -r requirements.txt
 ``` 
-- From the directory containing manage.py execute:
+- From the directory containing main.py execute:
 ```
 python3 main.py
 ```
